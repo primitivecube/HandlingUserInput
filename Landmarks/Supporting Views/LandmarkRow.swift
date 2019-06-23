@@ -3,7 +3,7 @@ See LICENSE folder for this sample’s licensing information.
 
 Abstract:
 A single row to be displayed in a list of landmarks.
-*/
+*///
 
 import SwiftUI
 
